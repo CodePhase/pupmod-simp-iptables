@@ -1,3 +1,7 @@
+* Mon Dec 10 2018 Mark Fitch <CodePhase@users.noreply.github.com> - 6.2.1
+- Change LOCAL-INPUT jump rule in FORWARD and INPUT chains to occur last
+  as a default action
+
 * Thu Nov 01 2018 Jeanne Greulich <jeanne.greulichr@onyxpoint.com> - 6.1.6
 - static asset updates for puppet 5
 
